@@ -1,0 +1,4 @@
+Please enter your name: 
+Please enter your age: 
+Choose your previous job: Doctor, Police Officer, Physics Professor, CU Football Player, or Student
+Please enter your gender: Male or Female
